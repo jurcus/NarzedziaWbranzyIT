@@ -18,7 +18,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        .\.github\scripts\installResources.ps1
+        https://github.com/jurcus/NarzedziaWbranzyIT/blob/main/installResources.ps1
       shell: powershell
 
     - name: Build .exe
